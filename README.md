@@ -1,4 +1,4 @@
-~~This program updates the inventory file and generates invoice based on the customer transactions~~
+This program updates the inventory file and generates invoice based on the customer transactions
 
 1. Nagarajan_Saranya_FP.py file contains the main program
 2. inventory.py and transactionitem.py are two different class files to process the inventory and user transactions.
