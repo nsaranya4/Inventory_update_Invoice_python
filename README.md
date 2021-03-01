@@ -1,3 +1,5 @@
+Inventory management and Invoice using Python
+
 This program updates the inventory file and generates invoice based on the customer transactions
 
 1. Nagarajan_Saranya_FP.py file contains the main program
